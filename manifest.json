@@ -1,0 +1,120 @@
+{
+  "verified": "2026-10-07",
+  "pdf_type": "lecturer guides, not slide exports",
+  "lectures": [
+    {
+      "lecture": 1,
+      "title": "Foundations of sustainability",
+      "revision": "18 September 2026",
+      "slides": 47,
+      "guide_pages": 14,
+      "files": {
+        "pptx": {
+          "path": "files/ASM-Lecture-01-Presentation.pptx",
+          "bytes": 15137580,
+          "sha256": "1d2980af9b211729180a652f553604c914f6674150fe1286c0ce0891b685bfb6"
+        },
+        "pdf": {
+          "path": "files/ASM-Lecture-01-Lecturer-Guide.pdf",
+          "bytes": 69645,
+          "sha256": "bd086625df80861823117f9b430ad4c073db367574e5a63fbc2be6a232be6dce"
+        }
+      }
+    },
+    {
+      "lecture": 2,
+      "title": "Pollution, climate resilience & circular economy",
+      "revision": "5 October 2026",
+      "slides": 35,
+      "guide_pages": 14,
+      "files": {
+        "pptx": {
+          "path": "files/ASM-Lecture-02-Presentation.pptx",
+          "bytes": 14685468,
+          "sha256": "35af4e3f694b69320457df24df7a7477a8cc96d95416cdafacdaec662452e909"
+        },
+        "pdf": {
+          "path": "files/ASM-Lecture-02-Lecturer-Guide.pdf",
+          "bytes": 120252,
+          "sha256": "51261a6ac4449dd1c7c01c16db70d5e4d60e3ba43703486e6d629a7223d04407"
+        }
+      }
+    },
+    {
+      "lecture": 3,
+      "title": "Sustainable business models & corporate strategy",
+      "revision": "5 October 2026",
+      "slides": 30,
+      "guide_pages": 13,
+      "files": {
+        "pptx": {
+          "path": "files/ASM-Lecture-03-Presentation.pptx",
+          "bytes": 12690619,
+          "sha256": "7816ba6094d344a0fd942f1f4bcc31289a5e58357f579f9fc27617ad0a1fef11"
+        },
+        "pdf": {
+          "path": "files/ASM-Lecture-03-Lecturer-Guide.pdf",
+          "bytes": 119889,
+          "sha256": "d6fba839fda5dc924a0e0b1ba72288be642ae8cd321defdfab2a09edf9fb0817"
+        }
+      }
+    },
+    {
+      "lecture": 4,
+      "title": "Measuring sustainability",
+      "revision": "5 October 2026",
+      "slides": 28,
+      "guide_pages": 13,
+      "files": {
+        "pptx": {
+          "path": "files/ASM-Lecture-04-Presentation.pptx",
+          "bytes": 12225678,
+          "sha256": "a1ac0ee1a86b8b9a7000d0dbcf442771a15178fbe0c692bafb96431aeffad5e9"
+        },
+        "pdf": {
+          "path": "files/ASM-Lecture-04-Lecturer-Guide.pdf",
+          "bytes": 117490,
+          "sha256": "0da9fc3172b311abc5f7adcb8c567e6db7db0f28e07c930090879030435573f1"
+        }
+      }
+    },
+    {
+      "lecture": 5,
+      "title": "Stakeholder engagement & communication",
+      "revision": "5 October 2026",
+      "slides": 29,
+      "guide_pages": 13,
+      "files": {
+        "pptx": {
+          "path": "files/ASM-Lecture-05-Presentation.pptx",
+          "bytes": 14780797,
+          "sha256": "4a7226c06d2fad76dcc4360d5e57d9da18aaed8eea30604fa4034034058c068b"
+        },
+        "pdf": {
+          "path": "files/ASM-Lecture-05-Lecturer-Guide.pdf",
+          "bytes": 118702,
+          "sha256": "dcb67a62e59c3376aadb7702e1fb3023598402b1b05800bf4f2d953050849bb4"
+        }
+      }
+    },
+    {
+      "lecture": 6,
+      "title": "ESG, regulation & future urban development",
+      "revision": "5 October 2026",
+      "slides": 27,
+      "guide_pages": 14,
+      "files": {
+        "pptx": {
+          "path": "files/ASM-Lecture-06-Presentation.pptx",
+          "bytes": 13370093,
+          "sha256": "35c0d0f2d7aca8a3cbb6e185bfbcb9d17e09d0870dbe9652d6bf5bb78489d818"
+        },
+        "pdf": {
+          "path": "files/ASM-Lecture-06-Lecturer-Guide.pdf",
+          "bytes": 122408,
+          "sha256": "9af3dae58fa84a72d5c0a4ab23992d567169233dbc153ba420cf738ee82e0388"
+        }
+      }
+    }
+  ]
+}
