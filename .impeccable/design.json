@@ -1,1 +1,45 @@
-{"version":1,"name":"Jenan lecture library","colors":{"primary":"#245749","ink":"#102f40","background":"#f8f5ee","muted":"#52615b","line":"#d3d7ce","accent":"#9b4f35","soft":"#eef0e7"},"typography":{"display":"Georgia, serif","body":"Arial, Helvetica, sans-serif"},"extensions":{"layout":{"maxWidth":"1180px","mobileBreakpoint":"650px"},"focus":{"color":"#9b4f35","width":"3px","offset":"5px"}}}
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-07T10:43:40.658005+00:00",
+  "title": "Design System: Jenan lecture library",
+  "extensions": {
+    "breakpoints": [
+      {
+        "name": "mobile",
+        "value": "650px"
+      },
+      {
+        "name": "compact",
+        "value": "900px"
+      }
+    ],
+    "motion": [
+      {
+        "name": "control-color",
+        "value": "background-color .16s ease, color .16s ease",
+        "purpose": "Download hover feedback; disabled with reduced motion."
+      }
+    ],
+    "focus": {
+      "colorToken": "accent",
+      "width": "3px",
+      "offset": "5px"
+    }
+  },
+  "components": [],
+  "narrative": {
+    "northStar": "Clear lecture pairs",
+    "overview": "A practical numbered library using the source lectures\u2019 visual identity. Each PowerPoint remains next to its lecturer guide.",
+    "keyCharacteristics": [
+      "Numbered ruled rows",
+      "Paired downloads",
+      "Native links without JavaScript"
+    ],
+    "dos": [
+      "Keep lecture numbers and file purpose visible."
+    ],
+    "donts": [
+      "Do not imply PDF guides are slide exports."
+    ]
+  }
+}
